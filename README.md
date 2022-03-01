@@ -1,2 +1,1 @@
-# Data-Structures-And-Algo-Notes
-easy peasy lemon
+# test-1 is something i made for fun ```nice```
